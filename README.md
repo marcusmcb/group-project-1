@@ -12,10 +12,11 @@ For our first project, we decided to do an analysis of home rental prices in Ame
 
 ### Tools used:
 
-Jupyter Notebooks/Python
-Pandas/Numpy
-Matplotlib
-Plotly.JS
+* Python/Juypter
+* Pandas/Numpy
+* Matplotlib
+* Plotly.JS
+* Kaggle
 
 ### Data Sources Used:
 
